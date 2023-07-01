@@ -41,7 +41,7 @@
 <details>
   <summary>Ruby</summary>
   <ul>
-    <li><a href="https://ruby.org/">React</a></li>
+    <li><a href="https://ruby.org/">Ruby</a></li>
   </ul>
 </details>
 
@@ -49,8 +49,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Redux**
-- **Axios**
+- **Models**
+- **Controllers**
+- **Tests**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,6 +134,11 @@ If you like this project feel free to fork it and use it as you need.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
+
+## Future Features
+
+- Addition of Documentation
+- More Test Coverage
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
